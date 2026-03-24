@@ -1,0 +1,16 @@
+paper/
+example_papers/
+data/
+PaperOutline.md
+ideation.md
+implementation_comparison.md
+notebooks/
+refs/
+experiments/
+docs/
+scripts/search_literature.py
+*.pdf
+*.zip
+*.tar.gz
+__pycache__/
+.DS_Store
